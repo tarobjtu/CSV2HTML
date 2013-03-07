@@ -76,9 +76,9 @@
 		
 	</div>
 	
-	<script type="text/javascript" src="js/jquery.min.js"></script>
-	<script type="text/javascript" src="js/shCore.js"></script>
-	<script type="text/javascript" src="js/shBrushXml.js"></script>
+	<script type="text/javascript" src="js/lib/jquery.min.js"></script>
+	<script type="text/javascript" src="js/lib/shCore.js"></script>
+	<script type="text/javascript" src="js/lib/shBrushXml.js"></script>
 	<script type="text/javascript" src="js/index.js"></script>
 </body>
 </html>
